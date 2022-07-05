@@ -1,3 +1,2 @@
 Geovanny
-Este es un ejemplo de como utilizar git
-nueva actualizacion
+Es un nuevo especimen
